@@ -1,0 +1,35 @@
+.fa-instagram{
+font-size:100px;
+color:rgb(226, 43, 150);
+}
+.fa-whatsapp{
+    font-size:100px;
+    color:green;
+}
+.fa-square-snapchat{
+    font-size:100px;
+    color:yellow;
+}
+.fa-linkedin-in{
+    font-size:100px;
+    color:blue;
+}
+.fa-square-twitter{
+    font-size:100px;
+    color:skyblue;
+} 
+a:link{
+    color:blueviolet;
+    background-color: brown;
+}
+a:hover{
+    color:gray;
+    text-decoration:underline;
+}
+a:active{
+    color: aqua;
+}
+a:visited{
+    color: antiquewhite;
+}
+
